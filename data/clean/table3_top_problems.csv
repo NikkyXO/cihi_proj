@@ -1,0 +1,11 @@
+main_problem,visits,p90_los_hours,non_admitted_pct,admitted_pct
+1) Abdominal and pelvic pain,454357,10.5,96.4,3.6
+2) Pain in throat and chest,381489,9.0,97.4,2.6
+3) Dorsalgia (back pain),223838,9.0,97.0,3.0
+4) Other disorders of urinary system,177674,12.7,88.1,11.9
+5) Acute upper respiratory infections of multiple and unspecified sites,170394,6.0,98.7,1.3
+6) Open wound of wrist and hand,155800,5.7,99.7,0.3
+7) Cellulitis,149659,10.1,91.0,9.0
+"8) Pneumonia, organism unspecified",146882,24.5,71.5,28.5
+9) Other medical care,145536,4.0,98.0,2.0
+10) Other soft tissue disorders not elsewhere classified,127255,8.2,98.2,1.8
